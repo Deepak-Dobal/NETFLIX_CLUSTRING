@@ -1,5 +1,8 @@
 ![gsmarena_001](https://user-images.githubusercontent.com/121633990/210622385-c18747b3-fcbf-41bc-9f9f-61f356c47606.jpg)
 
+![Certification](https://user-images.githubusercontent.com/121633990/231998696-f560afd9-7f44-4939-8505-f15599ee5cba.png)
+
+
 </p>
 <h1 align="center"> NETFLIX MOVIES AND TV SHOWS CLUSTERING </h1>
 
