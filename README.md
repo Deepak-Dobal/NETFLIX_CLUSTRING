@@ -90,7 +90,7 @@ In conclusion, tailored recommendations can be made based on information about m
 It will solve for improved movie and TV-Show selection times with a considerable growth in satisfaction of the content being consumed leading to more user engagement and greater trust in Netflix recommendations.
 
 **Ifyou found this content helpful, please give it a like as your support motivates us to create more valuable content for you. 
-  You can also connect with me, Deepak Dobal, on LinkedIn. Thank you for your support!**
+  You can also connect with me, Deepak Dobal, on LinkedIn. https://www.linkedin.com/in/dpkdobal/ Thank you for your support!**
 
 
 
